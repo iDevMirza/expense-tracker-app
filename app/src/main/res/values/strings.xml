@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Expense Tracker App</string>
+    <string name="app_subtitle">Track your spending, master your finances</string>
 </resources>
