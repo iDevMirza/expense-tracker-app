@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Expense Tracker App</string>
+
+    <!-- Sign In Activity Texts -->
     <string name="app_subtitle">Track your spending, master your finances</string>
     <string name="email">Email</string>
     <string name="email_hint">Enter your valid email</string>
@@ -7,4 +9,9 @@
     <string name="password_hint">Enter your password</string>
     <string name="remember_me">Remember Me</string>
     <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in_button_txt">Sign In</string>
+    <string name="do_not_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+
+    <!-- Sign Up Activity Texts -->
 </resources>
