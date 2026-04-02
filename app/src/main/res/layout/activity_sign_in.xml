@@ -99,6 +99,7 @@
             android:layout_height="24dp"/>
 
         <Button
+            android:id="@+id/sign_in_button_id"
             android:layout_width="match_parent"
             android:layout_height="48dp"
             app:backgroundTint="@null"
@@ -129,6 +130,7 @@
             android:layout_marginEnd="12dp"/>
 
         <TextView
+            android:id="@+id/sign_up_text_button_id"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/sign_up"
