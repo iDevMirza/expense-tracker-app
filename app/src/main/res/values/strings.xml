@@ -20,4 +20,12 @@
     <string name="already_have_account">Already have an account?</string>
     <string name="sign_in">Sign In</string>
 
+    <!-- Bottom Navigation Menu Items-->
+    <string name="home_menu">Home</string>
+    <string name="add_menu">Add</string>
+    <string name="history_menu">History</string>
+    <string name="insights_menu">Insights</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>

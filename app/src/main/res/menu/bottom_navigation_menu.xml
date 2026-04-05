@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home_menu_id"
+        android:title="@string/home_menu"
+        android:icon="@drawable/home"/>
+    <item
+        android:id="@+id/add_menu_id"
+        android:title="@string/add_menu"
+        android:icon="@drawable/add_circle"/>
+    <item
+        android:id="@+id/history_menu_id"
+        android:title="@string/history_menu"
+        android:icon="@drawable/history"/>
+    <item
+        android:id="@+id/insights_menu_id"
+        android:title="@string/insights_menu"
+        android:icon="@drawable/insights"/>
+</menu>
