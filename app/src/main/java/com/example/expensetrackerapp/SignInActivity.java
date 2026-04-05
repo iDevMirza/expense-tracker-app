@@ -71,6 +71,10 @@ public class SignInActivity extends AppCompatActivity implements View.OnClickLis
                 passwordField.requestFocus();
                 return;
             }
+
+            Intent intent = new Intent(SignInActivity.this, BottomNavigationActivity.class);
+            startActivity(intent);
+            finish();
         }
 
         if (v.getId() == R.id.sign_up_text_button_id) {
